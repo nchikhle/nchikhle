@@ -32,7 +32,7 @@ Welcome to my GitHub! With over 11 years of experience building robust backend s
 ### 🌐 Let's Connect
 - 🔗 [LinkedIn](https://www.linkedin.com/in/namrata-chikhle/)
 - 🔗 [Medium](https://medium.com/@logiqpool)
-- 💼 Portfolio: *Coming Soon*
+- 💼 [Portfolio](https://namrata-chikhle.netlify.app/)
 
 ---
 
