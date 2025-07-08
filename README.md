@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Namrata Chikhle
 
-🎯 **Senior Java Developer | Spring Boot | React | AWS | Full Stack Enthusiast**
+🎯 **Senior Java Developer | Spring Boot | React | AWS | Full Stack Enthusiast | writer**
 
 Welcome to my GitHub! With over 11 years of experience building robust backend systems and modern web apps, I'm passionate about crafting elegant code and impactful digital solutions.
 
