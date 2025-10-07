@@ -23,7 +23,7 @@ Welcome to my GitHub! With over 11 years of experience building robust backend s
 | Project | Description |
 |--------|-------------|
 | [`inspirobot-showcase`](https://github.com/nchikhle/inspirobot-showcase) | AI-powered motivational quote web app (Java + React + OpenAI + MongoDB) |
-| [`kanban-board`]([https://github.com/nchikhle/dailyquote](https://nams-kanban-board.netlify.app/) | A Kanban board Prototype |
+| [`kanban-board`](https://nams-kanban-board.netlify.app/) | A Kanban board Prototype |
 | `employee-insights-java8-tdd` | Mini project to practice Java 8 and TDD with Maven |
 | `moodmovies` | JavaScript-based mood-driven TV show recommender (frontend only) |
 
