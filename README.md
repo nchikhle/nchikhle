@@ -13,7 +13,7 @@ Welcome to my GitHub! With over 11 years of experience building robust backend s
 - **Languages:** Java 8+, JavaScript (ES6), SQL
 - **Backend:** Spring Boot, Spring Cloud, REST APIs, JPA, Maven, Hibernate, Docker, Jenkins
 - **Frontend:** React.js, HTML, CSS, Tailwind
-- **Databases:** MongoDB, MySQL, H2
+- **Databases:** PostgresSql Oracle, MongoDB, MySQL, H2
 - **Cloud & Tools:** AWS (IAM, EC2, S3), Git, Eclipse, Postman, Docker
 
 ---
